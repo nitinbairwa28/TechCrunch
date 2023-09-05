@@ -1,0 +1,32 @@
+.card {
+    width: 300px;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    margin: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    transition: transform 0.2s;
+  }
+  
+  .card:hover {
+    transform: scale(1.05);
+  }
+  
+  .card img {
+    background-image: "C:\Users\Nitin  bairwa\Desktop\pexels-photo-132548.webp";
+  }
+  
+  .card-content {
+    padding: 16px;
+  }
+  
+  .card h2 {
+    font-size: 1.25rem;
+    margin: 0;
+  }
+  
+  .card p {
+    font-size: 1rem;
+    color: #555;
+  }
+  .background-container {
+    background-image: url('C:\Users\Nitin  bairwa\Desktop\silhouette-dark-sky-clouds.jpg');}
